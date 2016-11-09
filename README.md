@@ -48,7 +48,7 @@
    **只需要按照平台提供的学习方案进行学习即可，如果学完平台所提供的所有课程，就保证能拥有十分扎实的基础功底，基本可以加入从事博士等研究了**
    
    
-   如果对于上述例子不是很了解，可以参考如下链接（只是一个例子，尚未完善），[数据科学][http://zjfreelunch.weebly.com/from_zero_to_professional/title]
+   如果对于上述例子不是很了解，可以参考如下链接（只是一个例子，尚未完善），[参考模板](https://github.com/dayeren/Computer-Science-and-Technology)
    
 
 
